@@ -37,7 +37,7 @@ Now the question might arise up that instead of using 2 3*3 kernels why can't we
 
 Kernels are most of the times initialized using Random values from Normal Gaussian Distribution.Although there are various research paper which use different methods of initialization of the kernels but most of the time selecting random values from normal gaussian distribution is prefered.This is because initialization is not the only thing which controls the entire model.Training also manages lot of aspects of changing these values of the kernel to best suit our accuracy.
 
-## Querstion -5) What happens during the training of a DNN?
+## Question -5) What happens during the training of a DNN?
 
 ### Answer.) 
 
